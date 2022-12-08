@@ -12,7 +12,7 @@ I'm a software developer and senior computer science student I use github to sha
   <a href="https://www.freeiconspng.com/img/2026" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/linkedin-logo-3.png" width="49" alt="Linkedin Logo Png Available In Different Size" /></a></a> 
   
 <a href="mailto:noufalharthi2000@gmail.com">
- <a href="https://www.freeiconspng.com/img/7230" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/mail-server-icon-png-5.png" width="55" alt="Png Transparent Email Server" /></a>
+ <a href="https://www.freeiconspng.com/img/7230" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/mail-server-icon-png-5.png" width="70" alt="Png Transparent Email Server" /></a>
 </a>
 
 
