@@ -1,6 +1,6 @@
 <h1 >Hello there</h1>
-<h2>Welcome to my github page<h2>
-<h4>Im a software developer<h4>
+<h2>Welcome to my github page</h2>
+<h4>Im a software developer</h4>
 <!--
 **1n0ne/1n0ne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://tenor.com/view/quby-high-five-wave-pentol-qubysani-gif-19935273
