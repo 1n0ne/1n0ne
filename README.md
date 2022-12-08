@@ -7,7 +7,7 @@ I'm a software developer and senior computer science student I use github to sha
 
 
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<h2> Connect with me <img src="https://media.giphy.com/media/L5LRkP5bUDFiZee7w2/giphy.gif" width="100px"> </h2>
 <a href="https://www.freeiconspng.com/img/2034" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/linkedin-linkedin-icon-flat-icon-linkedin-png-social-icon-png-11.png" width="60" alt="LinkedIn social icon png" /></a></a> 
   
 <a href="mailto:noufalharthi2000@gmail.com">
