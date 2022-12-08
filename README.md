@@ -9,7 +9,7 @@ I'm a software developer and senior computer science student I use github to sha
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/nouf-alharthi-56271a249'> 
-  <a href="https://www.freeiconspng.com/img/2026" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/linkedin-logo-3.png" width="50" alt="Linkedin Logo Png Available In Different Size" /></a></a> 
+  <a href="https://www.freeiconspng.com/img/2026" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/linkedin-logo-3.png" width="49" alt="Linkedin Logo Png Available In Different Size" /></a></a> 
   
 <a href="mailto:noufalharthi2000@gmail.com">
   <a href="https://www.freeiconspng.com/img/7230" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/mail-server-icon-png-5.png" width="60" alt="Png Transparent Email Server" /></a>
