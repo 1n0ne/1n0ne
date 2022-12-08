@@ -34,7 +34,7 @@ I'm a software developer and senior computer science student I use github to sha
 
 
 <h2> Connect with me<img src="https://media.giphy.com/media/L5LRkP5bUDFiZee7w2/giphy.gif" width="150"> </h2>
-<a href="https://www.freeiconspng.com/img/2034" title="Image from freeiconspng.com"><img src="https://img.icons8.com/fluency/48/null/linkedin.png"/></a> 
+<a href="https://www.linkedin.com/in/nouf-alharthi-56271a249"><img src="https://img.icons8.com/fluency/48/null/linkedin.png"/></a> 
   
 <a href="mailto:noufalharthi2000@gmail.com">
  <img src="https://img.icons8.com/color/48/null/apple-mail.png"/></a>
