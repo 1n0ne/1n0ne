@@ -5,6 +5,11 @@ I'm a software developer and senior computer science student I use github to sha
 
 <h2>Skils <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <h3>programing language: </h3>
+<ul style="display: inline-block;">
+  <li>Orange</li>
+  <li>Green</li>
+  <li>Blue</li>
+</ul>
 <img src="https://img.icons8.com/color/48/null/c-plus-plus-logo.png"/>
 <img src="https://img.icons8.com/color/48/null/python--v1.png"/>
 <img src="https://img.icons8.com/offices/30/null/php-logo.png"/>
