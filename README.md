@@ -4,20 +4,31 @@ I'm a software developer and senior computer science student I use github to sha
 </h3>
 
 <h2>Skils <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<h3>programing language: </h3>
-<ul style="display: inline-block;">
-  <li>Orange</li>
-  <li>Green</li>
-  <li>Blue</li>
-</ul>
+<div align="left"> <h3>programing language: </h3>
 <img src="https://img.icons8.com/color/48/null/c-plus-plus-logo.png"/>
 <img src="https://img.icons8.com/color/48/null/python--v1.png"/>
 <img src="https://img.icons8.com/offices/30/null/php-logo.png"/>
 <img src="https://img.icons8.com/color/48/null/javascript--v1.png"/>
-<img src="https://img.icons8.com/color/48/null/mysql-logo.png"/>
+<img src="https://img.icons8.com/color/48/null/mysql-logo.png"/></div>
+<div align="left">
 <h3>Web Development: </h3>
+  <img src="https://img.icons8.com/fluency/48/null/html-5.png"/>
+  <img src="https://img.icons8.com/color/48/null/css3.png"/>
+</div>
+<div align="left">
 <h3>Application development: </h3>
-<h3>Tools: </h3>
+  <img src="https://img.icons8.com/color/48/null/flutter.png"/>
+  <img src="https://img.icons8.com/color/48/null/dart.png"/>
+</div>
+<div align="left">
+<h3>Tools & environments </h3>
+  <img src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png"/>
+  <img src="https://img.icons8.com/fluency/48/null/sublime-text.png"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="90"/>
+  <img src="https://img.icons8.com/color/48/null/git.png"/>
+  
+  
+</div>
 
 
 
