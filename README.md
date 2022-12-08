@@ -1,4 +1,4 @@
-<h1 >Hello there and Welcome to my github page<img src="https://media.giphy.com/media/dsPBfiEEozyXUXShhB/giphy.gif"></h1>
+<h1 >Hello there and Welcome to my github page<img src="https://media.giphy.com/media/dsPBfiEEozyXUXShhB/giphy.gif" width=50></h1>
 <h2></2>
 
 <!--
