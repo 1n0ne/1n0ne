@@ -3,7 +3,12 @@
 I'm a software developer and senior computer science student I use github to share and save the project i work on 
 </h3>
 
-<h2> Skills <img src = "https://media.giphy.com/media/L5LRkP5bUDFiZee7w2/giphy.gif" width = 32px> </h2>
+<h2> Skils <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h3>programing language: </h3>
+<h3>Web Development: </h3>
+<h3>Application development: </h3>
+<h3>Tools: </h3>
+
 
 
 
