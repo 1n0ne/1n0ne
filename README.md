@@ -1,9 +1,9 @@
-# Hello there 👋
+<h1 >Hello there<img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://tenor.com/view/hello-gif-24408873)" width="35"></h1>
 ## Welcome to my github page
-
+### Im a software developer, 
 <!--
 **1n0ne/1n0ne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+https://tenor.com/view/quby-high-five-wave-pentol-qubysani-gif-19935273
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
