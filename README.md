@@ -12,7 +12,7 @@ I'm a software developer and senior computer science student I use github to sha
   <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
   
 <a href="mailto:noufalharthi2000@gmail.com">
-  <img width = '32px' align= 'center' src="https://icons8.com/icon/19408/envelope"/>
+  <img width = '32px' align= 'center' src="https://www.nicepng.com/png/detail/58-587653_trade-shows-email-icon-blue-svg.png"/>
 </a>
 
 
