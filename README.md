@@ -33,7 +33,7 @@ I'm a software developer and senior computer science student I use github to sha
 
 
 
-<h2> Connect with me<img src="https://media.giphy.com/media/L5LRkP5bUDFiZee7w2/giphy.gif" width="150"> </h2>
+<h2> Connect with me<img src="https://media.giphy.com/media/L5LRkP5bUDFiZee7w2/giphy.gif" width="100" style="border:0; border:none; outline: none;"> </h2>
 <a href="https://www.linkedin.com/in/nouf-alharthi-56271a249"><img src="https://img.icons8.com/fluency/48/null/linkedin.png"/></a> 
   
 <a href="mailto:noufalharthi2000@gmail.com">
