@@ -1,11 +1,9 @@
 <h1 >Hello there and welcome to my page! („• ֊ •„)</h1>
 
-<h3>
-I'm a software developer and senior computer science student I use github to share and save the project i work on 
-</h3>
 
 
-<h2> Skils ⌨️🖥️ </h2>
+
+<h2>MY SKILS ⌨️🖥️ </h2>
 <div align="left"> <h3>programing language: </h3>
 <img src="https://img.icons8.com/color/48/null/c-plus-plus-logo.png"/>
 <img src="https://img.icons8.com/color/48/null/python--v1.png"/>
@@ -35,7 +33,7 @@ I'm a software developer and senior computer science student I use github to sha
 
 
 
-<h2> Connect with me💬 </h2>
+<h2> CONNECT WITH ME 💬 </h2>
 <a href="https://www.linkedin.com/in/nouf-alharthi-56271a249"><img src="https://img.icons8.com/fluency/48/null/linkedin.png"/></a> 
   
 <a href="mailto:noufalharthi2000@gmail.com">
