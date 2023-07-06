@@ -1,9 +1,11 @@
-<h1 >Hello there and welcome to my page! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=50></h1>
+<h1 >Hello there and welcome to my page! („• ֊ •„)</h1>
+
 <h3>
 I'm a software developer and senior computer science student I use github to share and save the project i work on 
 </h3>
 
-<h2>Skils <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+
+<h2> Skils ⌨️🖥️ </h2>
 <div align="left"> <h3>programing language: </h3>
 <img src="https://img.icons8.com/color/48/null/c-plus-plus-logo.png"/>
 <img src="https://img.icons8.com/color/48/null/python--v1.png"/>
@@ -33,7 +35,7 @@ I'm a software developer and senior computer science student I use github to sha
 
 
 
-<h2> Connect with me<img src="https://media.giphy.com/media/L5LRkP5bUDFiZee7w2/giphy.gif" width="100" style="border:0; border:none; outline: none;"> </h2>
+<h2> Connect with me💬 </h2>
 <a href="https://www.linkedin.com/in/nouf-alharthi-56271a249"><img src="https://img.icons8.com/fluency/48/null/linkedin.png"/></a> 
   
 <a href="mailto:noufalharthi2000@gmail.com">
