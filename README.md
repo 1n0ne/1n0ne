@@ -26,10 +26,15 @@
   <img src="https://img.icons8.com/fluency/48/null/sublime-text.png"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="90"/>
   <img src="https://img.icons8.com/color/48/null/git.png"/>
-  
-  
 </div>
 
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=1n0ne&show_icons=true&locale=en&layout=compact" alt="Nouf Alharthi" />
+</div>
+
+<div>
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1n0ne&show_icons=true&locale=en" alt="Nouf Alharthi" />
+</div>
 
 
 
