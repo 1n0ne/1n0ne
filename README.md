@@ -1,4 +1,4 @@
-# HEllo I’m [Nouf][website] 👋
+# Hello I’m [Nouf][website] 👋
 
 ### A full stack developer
 
