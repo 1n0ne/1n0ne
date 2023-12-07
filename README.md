@@ -63,8 +63,5 @@
 
 ### :chart_with_upwards_trend: The STATS 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=1n0ne&show_icons=true&count_private=true&theme=tokyonight)
-![Most Used Languagues](https://github-readme-stats.vercel.app/api/top-langs/?username=1n0ne&theme=blue-green)
-
 
 [website]: https://noufalharthi.netlify.app/
